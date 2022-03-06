@@ -14,3 +14,9 @@ Aby commitować zmiany należy wpisać
 ```
 $ git commit -a -m "tytuł commitu"
 ```
+
+Aby utworzyć nową gałąź należy wpisać
+
+```
+$ git branch nazwa_galezi
+```
