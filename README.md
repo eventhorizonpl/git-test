@@ -22,3 +22,9 @@ Aby utworzyć nową gałąź należy wpisać
 ```
 $ git branch nazwa_galezi
 ```
+
+Aby zmienić gałęzie należy wpisać
+
+```
+$ git switch nazwa_galezi
+```
