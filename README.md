@@ -1,7 +1,9 @@
 Test gita
 =========
 
-Podstawy gita
+Podstawy gita. Podstawowe polecenia, które pozwolą na używanie systemu kontroli wersji git.
+https://git-scm.com/docs/user-manual
+https://git-scm.com/book/pl/v2/Pierwsze-kroki-Podstawy-Git
 
 Aby dodać plik do commita wpisujemy
 
